@@ -1,5 +1,5 @@
-//Nama = Siti Munawaroh//
-//NIM  = 1121031073//
+/*Nama = Siti Munawaroh*/
+/*NIM  = 1121031073*/
 /*Tugas Struktur Data*/
 #include <iostream>
 using namespace std;
